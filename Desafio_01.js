@@ -1,4 +1,4 @@
-let nome = "Espadaxim"
+let nome = "Espadachim"
 let xp = 5000
 let nivel =""
 
